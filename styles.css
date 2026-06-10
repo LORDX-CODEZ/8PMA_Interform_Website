@@ -1,6 +1,6 @@
 h1 {
     color: brown;
-    font-size: 50px;
+    font-size: 60px;
 }
 
 body {
@@ -10,4 +10,5 @@ body {
 p {
     border: 2px blanchedalmond solid;
     color: azure;
+    font size: 24px;
 }
