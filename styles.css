@@ -6,3 +6,7 @@ body {
     background-color: burlywood;
 }
 
+p {
+    color: azure
+    border: 2px blanchedalmond dashed;
+}
