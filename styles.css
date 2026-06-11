@@ -15,10 +15,14 @@ p {
 }
 
 a {
-    color: grey;
+    color: blue;
     font-size: 40px;
     font-family: "Elms Sans", sans-serif;
     text-align: center;
+}
+
+a:hover {
+    cursor: crosshair;
 }
 
 h2 {
