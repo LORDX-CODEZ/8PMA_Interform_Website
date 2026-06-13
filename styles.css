@@ -28,7 +28,7 @@ a {
 }
 
 a:hover {
-    cursor: crosshair;
+    cursor: pointer;
 }
 
 h2 {
