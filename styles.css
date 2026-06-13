@@ -14,6 +14,12 @@ p {
     font-family: "Elms Sans", sans-serif;
 }
 
+div {
+    border: 5px gray dashed;
+    border-radius: 80px;
+    background-color: bisque;
+}
+
 li {
     color: grey;
     font-size: 40px;
