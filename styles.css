@@ -29,13 +29,11 @@ a {
 
 a:hover {
     cursor: pointer;
-}
-
-.back-home {
     background-color: orange;
     border: 5px gray dashed;
     border-radius: 80px;
 }
+
 h2 {
     font-family: "Elms Sans", sans-serif;
     text-align: center;
